@@ -1,6 +1,6 @@
 #encoding=utf-8
 #作者：@破壳雏鸟
-#项目地址：https://github.com/pkcn445/C2/PortableC2ForLinux_v0.1dev
+#项目地址：https://github.com/pkcn445/C2/tree/main/PortableC2ForLinux_v0.1dev
 
 from subprocess import Popen,PIPE
 from socket import socket,AF_INET,SOCK_DGRAM
