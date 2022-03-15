@@ -1,6 +1,6 @@
 #encoding=utf-8
 #作者：@破壳雏鸟
-#项目地址：https://github.com/pkcn445/C2/PortableC2ForLinux_v0.1dev
+#项目地址：https://github.com/pkcn445/C2/tree/main/PortableC2ForLinux_v0.1dev
 
 from base64 import b64decode, b64encode
 from json import dumps, dump, loads
