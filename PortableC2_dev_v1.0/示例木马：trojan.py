@@ -1,3 +1,7 @@
+#encoding=utf-8
+#作者：@破壳雏鸟
+#项目地址：https://github.com/pkcn445/C2/
+
 from subprocess import Popen,PIPE
 from socket import socket,AF_INET,SOCK_DGRAM
 from getpass import getuser
