@@ -1,3 +1,7 @@
+#encoding=utf-8
+#作者：@破壳雏鸟
+#项目地址：https://github.com/pkcn445/C2/
+
 from socketserver import ThreadingTCPServer,BaseRequestHandler
 from json import loads,dumps
 from settings import *
